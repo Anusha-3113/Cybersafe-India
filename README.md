@@ -67,9 +67,12 @@ The prototype points users toward official Indian resources, including the Natio
 
 The current website prototype includes:
 
-- A voice-input interface, where supported by the browser.
-- Read-aloud responses using browser speech synthesis, where supported.
-- Basic guidance for financial scams, compromised accounts, and online harassment or threats.
+- Voice input and read-aloud responses where supported by the browser.
+- A language selector for English, Telugu, and Hindi, with translated key interface text and core safety advice; this is partial localization, not yet a fully translated site.
+- Voice commands for common topics and navigation, such as opening the complaint draft or official resources, where browser speech recognition works.
+- Scenario guidance for money scams, hacked accounts, harassment, fake job offers, digital-arrest threats, OTP theft, fake customer-care numbers, investment scams, and suspected malware.
+- Interactive visual mini-lessons about urgent UPI requests, suspicious links, and frightening phone calls.
+- Text-size controls to improve readability.
 - A complaint-draft helper that organizes details for the user to review.
 - Links to official Indian reporting and legal-information resources.
 - Reminders to preserve evidence and never share OTPs, passwords, UPI PINs, or full financial account details.
